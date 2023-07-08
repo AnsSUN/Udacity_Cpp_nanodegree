@@ -1,0 +1,3 @@
+[submodule "Udacity_Cpp_nanodegree"]
+	path = Udacity_Cpp_nanodegree
+	url = https://github.com/udacity/CppND-System-Monitor.git
